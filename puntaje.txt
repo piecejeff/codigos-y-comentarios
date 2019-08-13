@@ -1,0 +1,2 @@
+este es un codigo sencillo que va de la mano de un canvas el cual sirve para vel puntuacion que vamos 
+obteniendo por monedar obtenidas y agarradas a lo largo de los niveles

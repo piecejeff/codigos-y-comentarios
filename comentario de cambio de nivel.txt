@@ -1,0 +1,3 @@
+el codigo de cambio de nivel le permite al usuario un cambio sin pausas al
+nivel que sigue es decir  si estoy en nivel 1 pasare a nivel 2.
+este codigo carga automaticamente los datos de la escena y trabaja para pasar de un nivel a otro

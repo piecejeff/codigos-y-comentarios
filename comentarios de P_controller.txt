@@ -1,0 +1,3 @@
+este es el codigo mas escencial ya que sin el el juego seria obsoleto en su totalidad ya que es con el cual el usuario puede
+moverse atravez del nivel y puede explorar cada rincon es el que lo hace saltar
+y caminar al personaje

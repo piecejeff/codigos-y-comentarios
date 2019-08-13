@@ -1,0 +1,2 @@
+el codigo meno nos permite como usuarios pasar del menu principal a empezar a jugar
+el primer nivel del videojuego.

@@ -1,0 +1,3 @@
+estos codigos permiten rotacion y desplazamiento a un objeto del escenario
+y sirve para agregarle mas dificultad al momento de querer
+esquivar un objeto punzante

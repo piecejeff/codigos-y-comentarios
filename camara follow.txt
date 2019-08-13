@@ -1,0 +1,2 @@
+el codigo camara follow me permite seguir a mi personaje y no perderlo de vista en
+el nivel asi como para ver otros lugares del nivel y etc.
